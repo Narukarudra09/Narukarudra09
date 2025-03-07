@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Rudrapratap singh naruka
 
 # 💫 About Me:
-🌱 I’m currently learning: Dart, Flutter, Firebase
+🌱 I’m currently learning: Dart, Flutter, Firebase.
 📫 How to reach me: narukarudra09@gmail.com
 
 
