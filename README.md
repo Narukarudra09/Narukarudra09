@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning: Dart, Flutter, Firebase.
-📫 How to reach me: narukarudra09@gmail.com
+📫 How to reach me: narukarudra10@gmail.com
 
 
 ## 🌐 Socials:
